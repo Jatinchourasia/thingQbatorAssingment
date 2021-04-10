@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/thingQbatorAssingment/static/css/main.814bcfcb.chunk.css",
+    "main.js": "/thingQbatorAssingment/static/js/main.4fd0caea.chunk.js",
+    "main.js.map": "/thingQbatorAssingment/static/js/main.4fd0caea.chunk.js.map",
+    "runtime-main.js": "/thingQbatorAssingment/static/js/runtime-main.e21dafb8.js",
+    "runtime-main.js.map": "/thingQbatorAssingment/static/js/runtime-main.e21dafb8.js.map",
+    "static/js/2.bad107b1.chunk.js": "/thingQbatorAssingment/static/js/2.bad107b1.chunk.js",
+    "static/js/2.bad107b1.chunk.js.map": "/thingQbatorAssingment/static/js/2.bad107b1.chunk.js.map",
+    "static/js/3.bf7a8553.chunk.js": "/thingQbatorAssingment/static/js/3.bf7a8553.chunk.js",
+    "static/js/3.bf7a8553.chunk.js.map": "/thingQbatorAssingment/static/js/3.bf7a8553.chunk.js.map",
+    "index.html": "/thingQbatorAssingment/index.html",
+    "static/css/main.814bcfcb.chunk.css.map": "/thingQbatorAssingment/static/css/main.814bcfcb.chunk.css.map",
+    "static/js/2.bad107b1.chunk.js.LICENSE.txt": "/thingQbatorAssingment/static/js/2.bad107b1.chunk.js.LICENSE.txt",
+    "static/media/1876.36716951.jpg": "/thingQbatorAssingment/static/media/1876.36716951.jpg",
+    "static/media/3255469.6eb4c426.jpg": "/thingQbatorAssingment/static/media/3255469.6eb4c426.jpg",
+    "static/media/4005526.f482dbe5.jpg": "/thingQbatorAssingment/static/media/4005526.f482dbe5.jpg",
+    "static/media/Clogo.6dc2a5a9.svg": "/thingQbatorAssingment/static/media/Clogo.6dc2a5a9.svg",
+    "static/media/add.3c80084d.svg": "/thingQbatorAssingment/static/media/add.3c80084d.svg",
+    "static/media/back.8f7a42d9.svg": "/thingQbatorAssingment/static/media/back.8f7a42d9.svg",
+    "static/media/bookmark.df8334d7.svg": "/thingQbatorAssingment/static/media/bookmark.df8334d7.svg",
+    "static/media/clip.c4d76fff.svg": "/thingQbatorAssingment/static/media/clip.c4d76fff.svg",
+    "static/media/comment.07bef362.svg": "/thingQbatorAssingment/static/media/comment.07bef362.svg",
+    "static/media/filter.023ada7b.svg": "/thingQbatorAssingment/static/media/filter.023ada7b.svg",
+    "static/media/group.2f92f0b2.svg": "/thingQbatorAssingment/static/media/group.2f92f0b2.svg",
+    "static/media/setting.c5dd2aae.svg": "/thingQbatorAssingment/static/media/setting.c5dd2aae.svg",
+    "static/media/user.3fc9a5e8.svg": "/thingQbatorAssingment/static/media/user.3fc9a5e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e21dafb8.js",
+    "static/js/2.bad107b1.chunk.js",
+    "static/css/main.814bcfcb.chunk.css",
+    "static/js/main.4fd0caea.chunk.js"
+  ]
+}
